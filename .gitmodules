@@ -1,0 +1,4 @@
+[submodule "eap-core"]
+	path = eap-core
+	url = https://github.com/RealMati/EAP.git
+	branch = master
